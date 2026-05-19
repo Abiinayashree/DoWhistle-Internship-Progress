@@ -60,3 +60,62 @@ https://docs.langchain.com/oss/python/learn
 
 Resources 
 https://docs.langchain.com/oss/python/learn
+
+# Day 6 - 18 May 2026
+Beginner AI & Flask Applications
+
+## 1. Python Chatbot
+Built a simple Python chatbot to understand chatbot workflow, conversational logic, user interaction handling, and continuous conversation flow using conditional statements and loops.
+
+### Technologies Used
+- Python
+
+### Concepts Learned
+- User input handling
+- Conditional statements
+- Loop-based interaction
+- Chatbot workflow basics
+
+## 2. Flask Web Application
+Developed a basic Flask web application with multiple routes to understand backend routing, web application structure, and Flask framework fundamentals.
+
+### Technologies Used
+- Python
+- Flask
+
+### Concepts Learned
+- Flask routing
+- Backend fundamentals
+- Web application workflow
+- Route handling
+
+# Day 7 - 19 May 2026
+AI Applications using Groq API
+
+## 1. AI Conversational Chatbot
+Built an AI-powered conversational chatbot using Python and Groq API. The chatbot generates dynamic AI responses for user queries using Large Language Models (LLMs).
+
+### Technologies Used
+- Python
+- Groq API
+- Llama 3.1 Model
+
+### Concepts Learned
+- API integration
+- AI response generation
+- Conversational AI workflow
+- Prompt-based interaction
+
+## 2. AI Resume Summary Generator
+Developed an AI-powered resume summary generator using Groq API. The application generates professional resume summaries dynamically based on user-provided skills and experience.
+
+### Technologies Used
+- Python
+- Groq API
+- Llama 3.1 Model
+
+### Concepts Learned
+- Prompt engineering
+- Dynamic text generation
+- AI workflow understanding
+- LLM-based content generation
