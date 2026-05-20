@@ -119,3 +119,32 @@ Developed an AI-powered resume summary generator using Groq API. The application
 - Dynamic text generation
 - AI workflow understanding
 - LLM-based content generation
+
+ # Day 8 - 20 May 2026
+
+## AI StudyMate Assistant
+
+Today I worked on the initial setup and PDF processing module of the AI StudyMate Assistant project using LangChain, Streamlit, Groq API, FAISS, and PyPDF.
+
+### Implemented
+- Project environment setup
+- Streamlit application initialization
+- GitHub repository setup
+- PDF loading using PyPDF
+- Educational PDF text extraction system
+- Streamlit-based document content display
+
+### Technologies Used
+- Python
+- Streamlit
+- LangChain
+- Groq API
+- PyPDF
+- FAISS
+
+### Concepts Learned
+- AI project workflow
+- Document processing
+- PDF text extraction
+- Streamlit application development
+- Educational document intelligence systems
