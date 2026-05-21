@@ -160,7 +160,7 @@ Today I implemented the following modules and workflows using LangChain, Streaml
 - Semantic vector conversion workflow
 - Streamlit-based visualization for chunks and embeddings
 
-Technologies Used
+### Technologies Used
 
 - Python
 - Streamlit
@@ -169,7 +169,7 @@ Technologies Used
 - Sentence Transformers
 - HuggingFace Embeddings
 
-Learning Outcome
+### Learning Outcome
 
 Through this implementation, I learned document chunking architecture, semantic embeddings generation, vector representation concepts, and AI-powered document intelligence workflow development.
 
