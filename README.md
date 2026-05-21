@@ -148,3 +148,29 @@ Today I worked on the initial setup and PDF processing module of the AI StudyMat
 - PDF text extraction
 - Streamlit application development
 - Educational document intelligence systems
+
+# Day 9 - 21 May 2026
+
+Today I implemented the following modules and workflows using LangChain, Streamlit, PyPDF, and Sentence Transformers:
+
+- PDF text extraction workflow
+- Text splitting and chunk generation system
+- RecursiveCharacterTextSplitter implementation
+- AI embeddings generation module
+- Semantic vector conversion workflow
+- Streamlit-based visualization for chunks and embeddings
+
+Technologies Used
+
+- Python
+- Streamlit
+- LangChain
+- PyPDF
+- Sentence Transformers
+- HuggingFace Embeddings
+
+Learning Outcome
+
+Through this implementation, I learned document chunking architecture, semantic embeddings generation, vector representation concepts, and AI-powered document intelligence workflow development.
+
+
