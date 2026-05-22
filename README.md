@@ -173,4 +173,33 @@ Today I implemented the following modules and workflows using LangChain, Streaml
 
 Through this implementation, I learned document chunking architecture, semantic embeddings generation, vector representation concepts, and AI-powered document intelligence workflow development.
 
+# day 10 - 22 May 2026
+
+Today I implemented semantic embeddings processing and FAISS vector database integration using LangChain, Streamlit, Sentence Transformers, and Retrieval-Augmented Generation (RAG) workflow concepts.
+
+### Implemented Modules
+
+- Embeddings generation system
+- Semantic vector conversion workflow
+- FAISS vector database integration
+- Vector indexing and storage module
+- Semantic retrieval foundation
+- Streamlit-based vector visualization system
+
+### Technologies Used
+
+- Python
+- Streamlit
+- LangChain
+- PyPDF
+- Sentence Transformers
+- FAISS
+- NumPy
+
+### Learning Outcome
+
+Through this implementation, I learned semantic vector processing, embeddings storage architecture, vector indexing workflow, and AI-powered retrieval system development concepts.
+
+
+
 
