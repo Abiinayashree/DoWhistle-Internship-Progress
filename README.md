@@ -200,6 +200,34 @@ Today I implemented semantic embeddings processing and FAISS vector database int
 
 Through this implementation, I learned semantic vector processing, embeddings storage architecture, vector indexing workflow, and AI-powered retrieval system development concepts.
 
+# Day 11 - 23 May 2026
+
+Today I focused on developing semantic search and intelligent retrieval workflows using LangChain, Streamlit, Sentence Transformers, FAISS Vector Database, and Retrieval-Augmented Generation (RAG) architecture concepts.
+
+### Implemented Modules
+
+- Semantic search and retrieval system
+- Query embedding generation workflow
+- FAISS similarity search integration
+- Intelligent chunk retrieval architecture
+- Vector similarity matching system
+- Streamlit-based semantic retrieval interface
+
+### Technologies Used
+
+- Python
+- Streamlit
+- LangChain
+- PyPDF
+- Sentence Transformers
+- FAISS
+- NumPy
+
+### Learning Outcome
+
+Through this implementation, I gained practical understanding of semantic retrieval systems, query embedding workflows, similarity-based search concepts, vector database indexing, and AI-powered contextual document search architecture.
+
+
 
 
 
