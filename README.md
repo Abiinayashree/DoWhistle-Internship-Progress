@@ -258,7 +258,7 @@ Through this implementation, I gained practical understanding of semantic retrie
 
 Today I integrated Groq LLM into the AI StudyMate Assistant project to enable intelligent AI-powered question answering from uploaded PDF documents.
 
-Implemented:
+### Implemented:
 
 - Groq API integration
 - LLM-based answer generation
@@ -267,7 +267,7 @@ Implemented:
 - FAISS semantic retrieval integration
 - Streamlit chatbot-style PDF interaction system
 
-Technologies Used:
+### Technologies Used:
 
 - Python
 - Streamlit
@@ -277,7 +277,7 @@ Technologies Used:
 - FAISS Vector Database
 - PyPDF
 
-Learning Outcome:
+### Learning Outcome:
 Learned practical implementation of LLM integration, prompt engineering, contextual retrieval workflows, and AI-powered document intelligence architecture.
 
 
