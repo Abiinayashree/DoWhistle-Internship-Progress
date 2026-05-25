@@ -254,6 +254,32 @@ Today I focused on semantic retrieval workflow testing, project refinement, and 
 
 Through this implementation, I gained practical understanding of semantic retrieval validation, vector similarity workflows, intelligent chunk retrieval systems, and AI-powered document intelligence architecture.
 
+# Day 13 - 25 May 2026
+
+Today I integrated Groq LLM into the AI StudyMate Assistant project to enable intelligent AI-powered question answering from uploaded PDF documents.
+
+Implemented:
+
+- Groq API integration
+- LLM-based answer generation
+- Retrieval-Augmented Generation (RAG) workflow
+- Context-aware prompt generation
+- FAISS semantic retrieval integration
+- Streamlit chatbot-style PDF interaction system
+
+Technologies Used:
+
+- Python
+- Streamlit
+- LangChain
+- Groq API
+- Sentence Transformers
+- FAISS Vector Database
+- PyPDF
+
+Learning Outcome:
+Learned practical implementation of LLM integration, prompt engineering, contextual retrieval workflows, and AI-powered document intelligence architecture.
+
 
 
 
