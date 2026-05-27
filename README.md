@@ -295,7 +295,7 @@ Today I implemented conversational AI workflow and contextual PDF question answe
 
 Successfully developed conversation memory handling, semantic chunk retrieval, intelligent response generation, chatbot interaction workflow, and retrieved context visualization using Retrieval-Augmented Generation (RAG) architecture concepts.
 
-Learning Outcomes:
+### Learning Outcomes:
 
 - Understanding conversational AI workflow
 - Practical implementation of RAG architecture
