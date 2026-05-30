@@ -332,9 +332,22 @@ Successfully developed clear conversation functionality, chatbot session memory 
 - Chat history management process
 - Professional chatbot interaction workflow
 - Streamlit-based conversational UI enhancement
-- Multi-turn AI conversation usability concepts  
+- Multi-turn AI conversation usability concepts
 
 
+# Day 18 - 30 May 2026
+
+Google ADK Learning Progress
+
+### Topics Covered:
+
+- Introduction to Google Agent Development Kit (ADK)
+- Benefits and use cases of Google ADK
+- Core architecture components: Agents, Tools, Models, Memory, and Workflows
+- Environment setup and installation process
+
+### Learning Outcome:
+Developed a foundational understanding of Google ADK concepts and its role in building AI-powered agent applications.
 
 
 
