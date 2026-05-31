@@ -355,7 +355,7 @@ Today I continued learning Google ADK concepts and explored agent communication 
 
 Successfully understood agent collaboration workflows, task delegation mechanisms, custom tool integration concepts, conversation memory handling, state management processes, and production-oriented AI agent development architecture using Google ADK.
 
-Learning Outcomes:
+### Learning Outcomes:
 
 - Understanding multi-agent communication workflow
 - Agent collaboration and task delegation concepts
