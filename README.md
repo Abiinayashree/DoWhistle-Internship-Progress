@@ -433,6 +433,39 @@ Today, I successfully integrated Gemini AI into the AI Career Copilot project.
 
 Users can now enter their skills and career goals and receive AI-generated career guidance, learning recommendations, resume suggestions, and interview preparation support.
 
+# Day 24 - 5 June 2026
+
+Project: AI Career Copilot – Multi-Agent Career Guidance System
+
+# Progress Completed
+
+- Set up the project environment using Python and Streamlit.
+- Created a clean and modular project structure.
+- Configured virtual environment and installed required dependencies.
+- Developed the initial Streamlit user interface for user interaction.
+- Integrated Google Gemini AI using API-based authentication.
+- Implemented the Skill Gap Agent to analyze current skills and identify missing skills for the target career role.
+- Developed the Learning Roadmap Agent to generate personalized learning plans and career growth paths.
+- Connected agents with the Streamlit frontend and tested the end-to-end workflow.
+
+# Current Features
+
+- Skill Gap Analysis
+- Learning Roadmap Generation
+- AI-Powered Career Guidance
+
+# Upcoming Tasks
+
+- Resume Analysis Agent
+- Interview Preparation Agent
+- Multi-Agent Integration
+- UI Enhancements
+- Deployment and Documentation
+
+# Technologies Used
+
+Python, Streamlit, Google Gemini AI, Pydantic, Python Dotenv, Multi-Agent Architecture
+
   
 
 
