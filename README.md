@@ -532,6 +532,17 @@ Project: AI Career Copilot – Multi-Agent Career Guidance System
 
 Python, Streamlit, Google Gemini AI, Python Dotenv, Pydantic, Multi-Agent Architecture
 
+# Day 27 - 8 June 2026
+
+Today I have completed the ATS (Applicant Tracking System) scoring module and Job Matching feature in my AI Career Copilot project.
+
+I implemented resume parsing and skill extraction, added ATS score calculation based on job description matching, and built job-role matching logic based on user skills.
+
+I have tested the basic outputs and integrated them into the existing Streamlit application.
+
+I will continue improving the accuracy and UI enhancements in the next phase.
+
+
   
 
 
