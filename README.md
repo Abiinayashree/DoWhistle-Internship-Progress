@@ -540,6 +540,27 @@ I implemented resume parsing and skill extraction, added ATS score calculation b
 
 I have tested the basic outputs and integrated them into the existing Streamlit application.
 
+# Day 28 - 9 June 2026
+
+Implemented Resume PDF Upload functionality for automatic resume parsing.
+
+Added ATS Score Analysis feature to evaluate resume strength, identify missing keywords, and provide improvement suggestions.
+
+Developed Portfolio Project Recommendation Agent to recommend industry-relevant projects based on user skills and career goals.
+
+Enhanced application validation and improved user experience.
+
+# Current Features:
+• Skill Gap Analysis
+• Learning Roadmap
+• Resume Suggestions
+• ATS Score Analysis
+• Career Readiness Analysis
+• Interview Preparation
+• Job Matching
+• Portfolio Project Recommendations
+• Resume PDF Upload
+
 I will continue improving the accuracy and UI enhancements in the next phase.
 
 
